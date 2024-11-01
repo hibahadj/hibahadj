@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hibahadj&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Hiba's GitHub Stats" />
 </a>
 <a href="https://github.com/hibahadj/hibahadj.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibahadj&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibahadj&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=5" />
 </a>
 
 
