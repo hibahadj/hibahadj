@@ -15,9 +15,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibahadj&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=5" />
 </a>
 
-
-## 📲 Social Media Account
-
-<p align="left">
-<a href="www.linkedin.com/in/amel-hiba-hadjiedj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="HADJIEDJ Amel Hiba" height="30" width="40" /> HADJIEDJ Amel Hiba </a>
-</p>
